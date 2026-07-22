@@ -3,5 +3,7 @@ Game for the STM32F303 Microcontroller, written in ARM Assembly (Cortex-M4) and 
 
 # By:
 Anthony King - anto938
+
 Marco Fontana - nheatyon
+
 Victoria Nimkovych - nimkovyv-netizen
